@@ -48,6 +48,7 @@ Wanting a compact way to sense the position of the fingers, without having to do
 ## Timeline
 
 6/16/2023: We've ordered the parts needed to begin preliminarly tests on our project. 
+7/10/2023: We worked on parts that are going to be used for the hand motion. 
 
 ## Useful Links
 
