@@ -1,8 +1,9 @@
 # Student Names 
-Henry Forsyth
+Tyler Wells
+Brendan Love
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+This is a hand orientation-based controller that can register finger movements and positioning. 
 
 # Date Started
-11-16-2000
+6/17/2023
