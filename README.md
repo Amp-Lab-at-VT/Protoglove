@@ -1,12 +1,17 @@
 ## Members
-Tyler Wells, Eletrical Engineering Student (2025)
+Tyler Wells, Electrical Engineering Student (2025)
 tylermwells@vt.edu
 
-Brendan Love, Computer Engineering Student (2024)
+Brendan Love, Computer Engineering Graduate 
 brendanlove@vt.edu
 
+AJ Dempsey, Electrical Engineering Student (2025)
+ajd02@vt.edu
+
+Robert Vaughn, Electrical Engineering Student (2025)
+robertv21@vt.edu
+
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
 
 ## Photo
 {% include youtube.html video="miltuOLWDFQ" %}
